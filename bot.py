@@ -17,7 +17,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 load_dotenv()
 
 
-TEST_MODE = True
+TEST_MODE = False
 TEST_USER_ID = 925918573
 
 
